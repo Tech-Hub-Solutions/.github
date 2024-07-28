@@ -1,10 +1,10 @@
 # Tech Hub
 
 <div align='center'> 
-  <img src="src/imgs/tech-hub-logo.svg" width="180px" height="80px" alt="Logotipo da Tech Hub">
+  <img src="https://github.com/Tech-Hub-Solutions/.github/blob/75106a3f1bd7a6640a51627b400ebb6c1e83f5f8/src/imgs/tech-hub-logo.svg" width="180px" height="80px" alt="Logotipo da Tech Hub">
 </div>
 
-A Tech Hub é uma plataforma facilitadora do encontro de empresas a talentos autônomos do mundo da tecnologia, projeto de extensão que está sendo desenvolvido durante o 3º semestre (2023/2) do curso de Análise e Desenvolvimento de Sistemas da Faculdade São Paulo Tech School (SPTech).
+A Tech Hub é uma plataforma facilitadora do encontro entre empresas e talentos autônomos do mundo da tecnologia. Este é um projeto de extensão que foi desenvolvido durante todo o 2º ano do curso de Análise e Desenvolvimento de Sistemas da Faculdade São Paulo Tech School (SPTech).
 
 # Front-end
 
